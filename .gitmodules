@@ -1,0 +1,6 @@
+[submodule "vendorview-frontend"]
+	path = vendorview-frontend
+	url = https://github.com/breadworshipper/vendorview-frontend.git
+[submodule "vendorview-backend"]
+	path = vendorview-backend
+	url = https://github.com/breadworshipper/vendorview-backend.git
