@@ -42,3 +42,6 @@ To run the backend server, navigate to the backend directory and follow the inst
 
 ### Frontend
 To run the frontend server, navigate to the frontend directory and follow the instructions in the Frontend README.
+
+IMPORTANT!!!
+Since vercel is using HTTPS and our backend server is using HTTP, you need to set the insecure content in your web setting to allow. If you don't do this the app won't work
