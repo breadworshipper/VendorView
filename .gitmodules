@@ -1,6 +1,8 @@
 [submodule "vendorview-frontend"]
 	path = vendorview-frontend
 	url = https://github.com/breadworshipper/vendorview-frontend.git
+	branch = main
 [submodule "vendorview-backend"]
 	path = vendorview-backend
 	url = https://github.com/breadworshipper/vendorview-backend.git
+	branch = main
